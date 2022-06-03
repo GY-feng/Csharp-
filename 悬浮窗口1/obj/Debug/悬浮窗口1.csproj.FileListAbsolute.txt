@@ -1,0 +1,10 @@
+D:\代码练习\悬浮窗口1\bin\Debug\悬浮窗口1.exe.config
+D:\代码练习\悬浮窗口1\bin\Debug\悬浮窗口1.exe
+D:\代码练习\悬浮窗口1\bin\Debug\悬浮窗口1.pdb
+D:\代码练习\悬浮窗口1\obj\Debug\悬浮窗口1.csprojAssemblyReference.cache
+D:\代码练习\悬浮窗口1\obj\Debug\悬浮窗口1.Form1.resources
+D:\代码练习\悬浮窗口1\obj\Debug\悬浮窗口1.Properties.Resources.resources
+D:\代码练习\悬浮窗口1\obj\Debug\悬浮窗口1.csproj.GenerateResource.cache
+D:\代码练习\悬浮窗口1\obj\Debug\悬浮窗口1.csproj.CoreCompileInputs.cache
+D:\代码练习\悬浮窗口1\obj\Debug\悬浮窗口1.exe
+D:\代码练习\悬浮窗口1\obj\Debug\悬浮窗口1.pdb
